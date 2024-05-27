@@ -1,7 +1,3 @@
-Certainly! Below is a detailed `README.md` file for your Node.js application. This file includes instructions for setting up and running the project, as well as an overview of the project structure and key dependencies.
-
----
-
 # Node.js Express Application
 
 This is a Node.js application built with Express, using TypeScript for type safety, and Docker for containerization. The application includes CSRF protection and session management.
